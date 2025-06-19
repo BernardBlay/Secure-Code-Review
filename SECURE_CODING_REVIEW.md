@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 
 # ✅ Secure Coding Review – Flask Web Application  
-### CodeAlpha Internship – Bernard Blay
 
 ## 📌 Overview
 This secure coding review was conducted as part of my **CodeAlpha Internship**. The review focused on a **Flask-based web application** that demonstrates user authentication and session management. The aim was to manually analyze the code and identify security vulnerabilities, followed by suggesting practical fixes based on secure coding principles.
