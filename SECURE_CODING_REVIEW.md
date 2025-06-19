@@ -2,7 +2,7 @@
 ![Security](https://img.shields.io/badge/Security-Checked-blue)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 ![Flask](https://img.shields.io/badge/Framework-Flask-red)
- [Python](https://img.shields.io/badge/Language-Python-blue)
+![Python](https://img.shields.io/badge/Language-Python-blue)
 
 # ✅ Secure Coding Review – Flask Web Application  
 ### CodeAlpha Internship – Bernard Blay
