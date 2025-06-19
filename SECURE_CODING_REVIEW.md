@@ -96,4 +96,3 @@ The process of reviewing this application allowed me to:
 
 ---
 
-> 📦 This file was created as part of Task 3 in the **CodeAlpha Internship Program** by Bernard Blay, focused on secure coding review and vulnerability identification in a Flask-based web app.
